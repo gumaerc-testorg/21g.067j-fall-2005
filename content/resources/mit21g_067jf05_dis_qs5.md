@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 78bcf319-229f-9192-d8f1-5eb107ebdaf4
 resourcetype: Document
 title: 'Week 5: Murakami Haruki (special lecture)'
 uid: 64b8a1f8-a5c5-7bd8-9529-ec6fccbe848a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 244fc3ef-bca4-38e2-65d0-334dfc1a6c23
 resourcetype: Document
 title: 'Cultural Performances of Asia: Concluding Thoughts and Questions'
 uid: 40f9fa47-56e7-874d-18ee-0d37a361d5f5

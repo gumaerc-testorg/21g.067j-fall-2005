@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 78bcf319-229f-9192-d8f1-5eb107ebdaf4
 resourcetype: Document
 title: 'Week 2: Anime and Japanese Culture'
 uid: 8919008a-59d3-5b66-6b4d-160cabd5b7d1

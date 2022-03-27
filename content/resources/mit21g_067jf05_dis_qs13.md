@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 78bcf319-229f-9192-d8f1-5eb107ebdaf4
 resourcetype: Document
 title: 'Week 13: Final Class'
 uid: 1aee6222-b7f2-a67a-f6da-ef558d8f4577

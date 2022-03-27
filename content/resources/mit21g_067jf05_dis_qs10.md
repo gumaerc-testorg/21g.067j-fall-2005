@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 78bcf319-229f-9192-d8f1-5eb107ebdaf4
 resourcetype: Document
 title: 'Week 10: Transgenders in Japan'
 uid: 37144887-37f1-0eee-9651-e64b7ea92665

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 78bcf319-229f-9192-d8f1-5eb107ebdaf4
 resourcetype: Document
 title: "Week 8: Beijing Film Academy\u2019s Animation (special event)"
 uid: d9247e60-fd0d-df56-ba70-5409be896e12

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 78bcf319-229f-9192-d8f1-5eb107ebdaf4
 resourcetype: Document
 title: 'Essay 2 Topic: Authenticity, Performance and Culture'
 uid: e0d37213-a6e4-8a50-f2c9-59d564b6cc60

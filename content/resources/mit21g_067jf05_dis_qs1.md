@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 78bcf319-229f-9192-d8f1-5eb107ebdaf4
 resourcetype: Document
 title: 'Week 1:  Introduction to the Course'
 uid: 3c5696b9-5d42-f687-a3d6-49a25ecd98f7

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 78bcf319-229f-9192-d8f1-5eb107ebdaf4
 resourcetype: Document
 title: 'Week 4: Anime (discussion of paper topics, reproduced below)'
 uid: ca111551-4cc7-9f4b-ad1d-b8cca375ee8b

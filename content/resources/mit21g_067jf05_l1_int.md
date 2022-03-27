@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 244fc3ef-bca4-38e2-65d0-334dfc1a6c23
 resourcetype: Document
 title: 'Cultural Performances of Asia: Themes of the Class'
 uid: 972cf3d7-d70d-346f-85be-5b87cb4993c2

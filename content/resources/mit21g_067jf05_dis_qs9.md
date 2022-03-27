@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 78bcf319-229f-9192-d8f1-5eb107ebdaf4
 resourcetype: Document
 title: 'Week 9: Takarazuka and Sexual Politics'
 uid: efedaf25-d03a-0b9a-4b69-4e60940f8cc7
