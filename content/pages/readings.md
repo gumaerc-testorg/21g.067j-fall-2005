@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the required texts and journal articles and textbook
+  selections as per the session covered in the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
