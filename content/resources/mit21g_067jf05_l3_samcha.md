@@ -6,6 +6,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/f5f098372282aa7c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Global Media Sharing: New Intellectual Property Challenges'
 uid: f5f09837-2282-aa7c-3711-16491527a297
 ---
 This file contains information regarding lecture 3 pokemon and cross-cltural influence.
-

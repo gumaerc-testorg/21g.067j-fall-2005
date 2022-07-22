@@ -5,6 +5,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/13904cb86716868c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Anime as Global Culture
 uid: 13904cb8-6716-868c-ff7c-7a63ba23b171
 ---
 This file contains information regarding Anime and Japanese Culture.
-

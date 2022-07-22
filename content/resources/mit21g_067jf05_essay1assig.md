@@ -5,6 +5,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/8295a917a484a627
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Essay 1: Anime as Japanese global culture'
 uid: 8295a917-a484-a627-6f38-95942b235c91
 ---
 This file contains information regarding essay 1 assignment .
-

@@ -5,6 +5,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/2f78a2717d9e499a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Japanese Hip-Hop and Globalization
 uid: 2f78a271-7d9e-499a-0ee1-0589a74c1650
 ---
 This file contains information regarding lecture 6.
-

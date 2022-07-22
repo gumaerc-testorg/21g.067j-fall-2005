@@ -5,6 +5,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/1aee6222b7f2a67a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Week 13: Final Class'
 uid: 1aee6222-b7f2-a67a-f6da-ef558d8f4577
 ---
 This file contains information regarding week 13.
-

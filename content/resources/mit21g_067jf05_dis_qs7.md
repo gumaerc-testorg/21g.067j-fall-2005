@@ -5,6 +5,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/7401c39443d09175
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Week 7: Tak Toyoshima (special guest lecture)'
 uid: 7401c394-43d0-9175-71ec-576be0bee90c
 ---
 This file contains information regarding week 7.
-

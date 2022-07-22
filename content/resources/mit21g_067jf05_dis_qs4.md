@@ -5,6 +5,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/ca1115514cc79f4b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Week 4: Anime (discussion of paper topics, reproduced below)'
 uid: ca111551-4cc7-9f4b-ad1d-b8cca375ee8b
 ---
 This file contains information regarding week 4.
-

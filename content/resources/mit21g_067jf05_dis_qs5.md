@@ -5,6 +5,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/64b8a1f8a5c57bd8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Week 5: Murakami Haruki (special lecture)'
 uid: 64b8a1f8-a5c5-7bd8-9529-ec6fccbe848a
 ---
 This file contains information regarding week 5.
-

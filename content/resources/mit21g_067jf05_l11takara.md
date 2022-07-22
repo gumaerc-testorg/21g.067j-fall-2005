@@ -5,6 +5,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/2f4c076ba8751468
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Takarazuka and Authenticity
 uid: 2f4c076b-a875-1468-f34e-f84a0cf4d74b
 ---
 This file contains information regarding lecture takarazuka and authenticity.
-

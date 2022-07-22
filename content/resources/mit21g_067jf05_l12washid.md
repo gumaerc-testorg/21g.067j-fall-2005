@@ -5,6 +5,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/b0214e30c4e52e80
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Kogal Effect on Keitai Innovation: The Latest in Mobile Phone Lifestyles
 uid: b0214e30-c4e5-2e80-1c43-9c69dc8a30ca
 ---
 This file contains information regarding lecture 12 washid.
-

@@ -5,6 +5,7 @@ file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/40f9fa4756e7874d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Cultural Performances of Asia: Concluding Thoughts and Questions'
 uid: 40f9fa47-56e7-874d-18ee-0d37a361d5f5
 ---
 This file contains information regarding lecture 13.
-
