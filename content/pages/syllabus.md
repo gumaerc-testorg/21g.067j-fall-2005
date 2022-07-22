@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus section provides information about course description, aims,
+  course topics, course requirements and schedule of major assignments and grading
+  of written work.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7927ccfa-638c-b336-d185-b8452a1676d1
 ---
