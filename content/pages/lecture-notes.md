@@ -158,7 +158,7 @@ Transgendered Identities in Japan
 {{< tdopen >}}
 Cultural Performances and Authenticity  
   
-Discussion of Authenticity, [47 Samurai](http://en.wikipedia.org/wiki/47_samurai) ("Passing" as Failed Ronin)
+Discussion of Authenticity, {{% resource_link "2ef0dd0d-b012-4b92-8044-3d9b58526d23" "47 Samurai" %}} ("Passing" as Failed Ronin)
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 2f4c076b-a875-1468-f34e-f84a0cf4d74b "PDF" %}})
