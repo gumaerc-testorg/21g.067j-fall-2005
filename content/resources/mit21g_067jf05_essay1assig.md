@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding essay 1 assignment .
 file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/8295a917a484a6276f3895942b235c91_MIT21G_067JF05_essay1assig.pdf
+file_size: 138125
 file_type: application/pdf
 learning_resource_types:
 - Assignments

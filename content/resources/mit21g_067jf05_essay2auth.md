@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding essay 2 topic.
 file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/e0d37213a6e48a50f2c959d564b6cc60_MIT21G_067JF05_essay2auth.pdf
+file_size: 158707
 file_type: application/pdf
 learning_resource_types:
 - Assignments
