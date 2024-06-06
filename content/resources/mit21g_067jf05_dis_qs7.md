@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding week 7.
 file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/7401c39443d0917571ec576be0bee90c_MIT21G_067JF05_dis_qs7.pdf
+file_size: 151809
 file_type: application/pdf
 learning_resource_types:
 - Assignments
