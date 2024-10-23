@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding week 6.
-file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/8db71b4aa323460b63d730bd0e7b8649_MIT21G_067JF05_dis_qs6.pdf
+file: /ol-ocw-studio-app/courses/21g-067j-cultural-performances-of-asia-fall-2005/8db71b4aa323460b63d730bd0e7b8649_MIT21G_067JF05_dis_qs6.pdf
 file_size: 159260
 file_type: application/pdf
 learning_resource_types:

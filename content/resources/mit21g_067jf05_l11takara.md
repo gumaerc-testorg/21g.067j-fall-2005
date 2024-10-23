@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture takarazuka and authenticity.
-file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/2f4c076ba8751468f34ef84a0cf4d74b_MIT21G_067JF05_l11takara.pdf
+file: /ol-ocw-studio-app/courses/21g-067j-cultural-performances-of-asia-fall-2005/2f4c076ba8751468f34ef84a0cf4d74b_MIT21G_067JF05_l11takara.pdf
 file_size: 92235
 file_type: application/pdf
 learning_resource_types:
