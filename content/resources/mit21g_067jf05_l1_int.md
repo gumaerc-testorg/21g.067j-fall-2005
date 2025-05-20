@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 1 introduction.
-file: /ol-ocw-studio-app/courses/21g-067j-cultural-performances-of-asia-fall-2005/972cf3d7d70d346f85be5b87cb4993c2_MIT21G_067JF05_l1_int.pdf
+file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/972cf3d7d70d346f85be5b87cb4993c2_MIT21G_067JF05_l1_int.pdf
 file_size: 133757
 file_type: application/pdf
 learning_resource_types:
