@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding week 8.
-file: /ol-ocw-studio-app/courses/21g-067j-cultural-performances-of-asia-fall-2005/d9247e60fd0ddf56ba705409be896e12_MIT21G_067JF05_dis_qs8.pdf
+file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/d9247e60fd0ddf56ba705409be896e12_MIT21G_067JF05_dis_qs8.pdf
 file_size: 149409
 file_type: application/pdf
 learning_resource_types:
