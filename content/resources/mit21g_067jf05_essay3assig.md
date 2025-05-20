@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding final paper assignment.
-file: /ol-ocw-studio-app/courses/21g-067j-cultural-performances-of-asia-fall-2005/03fe1c852ac0c7a8126ec34cdf393471_MIT21G_067JF05_essay3assig.pdf
+file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/03fe1c852ac0c7a8126ec34cdf393471_MIT21G_067JF05_essay3assig.pdf
 file_size: 142058
 file_type: application/pdf
 learning_resource_types:
