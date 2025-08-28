@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 3 pokemon and cross-cltural
   influence.
-file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/f5f098372282aa7c371116491527a297_MIT21G_067JF05_l3_samcha.pdf
+file: /ol-ocw-studio-app/courses/21g-067j-cultural-performances-of-asia-fall-2005/f5f098372282aa7c371116491527a297_MIT21G_067JF05_l3_samcha.pdf
 file_size: 175598
 file_type: application/pdf
 learning_resource_types:

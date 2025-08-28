@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 12 washid.
-file: /courses/21g-067j-cultural-performances-of-asia-fall-2005/b0214e30c4e52e801c439c69dc8a30ca_MIT21G_067JF05_l12washid.pdf
+file: /ol-ocw-studio-app/courses/21g-067j-cultural-performances-of-asia-fall-2005/b0214e30c4e52e801c439c69dc8a30ca_MIT21G_067JF05_l12washid.pdf
 file_size: 322368
 file_type: application/pdf
 learning_resource_types:
