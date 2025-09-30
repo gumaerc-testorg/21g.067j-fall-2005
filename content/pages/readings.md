@@ -49,7 +49,7 @@ Introduction to the Course: Asian / Performance / Cultures
 Discussion: Performances of Class and Gender - Street vs. Opera
 {{< tdclose >}}
 {{< tdopen >}}
-Film: Wu, Tian-Ming. [_King of Masks_](http://imdb.com/title/tt0115669/), 1996.
+Film: Wu, Tian-Ming. {{% resource_link "6908ef79-91bb-481d-bc25-64798849ce50" "_King of Masks_" %}}, 1996.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +65,7 @@ Geertz, Clifford. "Notes on the Balinese Cockfight." 1973, republished "Deep Pla
   
 Napier, Susan. _Anime from Akira to Princess Mononoke_. New York, NY: Palgrave, 2001, pp. 3-138. ISBN: 9780312238636. (Text)  
   
-Film: Kon, Satoshi. [_Paranoia Agent_](http://imdb.com/title/tt0433722/), 2004. (TV show - Part 1)
+Film: Kon, Satoshi. {{% resource_link "b9c04da0-8bcd-440c-92ee-3c333b1cae2e" "_Paranoia Agent_" %}}, 2004. (TV show - Part 1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ _Selected Short Stories by Haruki Murakami_
   
 Haruki, Murakami. "The Kidney-Shaped Stone That Moves Everyday," _The New Yorker_, September 26, 2005.  
   
-Film: Kon, Satoshi. [_Paranoia Agent_](http://imdb.com/title/tt0433722/), 2004. (TV show - Part 2)
+Film: Kon, Satoshi. {{% resource_link "b9c04da0-8bcd-440c-92ee-3c333b1cae2e" "_Paranoia Agent_" %}}, 2004. (TV show - Part 2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +133,7 @@ Condry, Ian. "Yellow B-Boys, Black Culture, and the Elvis Effect." In _Hip-Hop J
   
 Atkins, Taylor. "The Japanese Jazz Artist and the Authenticity Complex." In _Blue Nippon_. Durham, NC: Duke University Press, 2001. ISBN: 9780822327219.  
   
-Film: Watanabe, Shinichirô. [_Samurai Champloo_](http://imdb.com/title/tt0423731/), 2004. (Selected episodes)
+Film: Watanabe, Shinichirô. {{% resource_link "08b60358-fc15-489c-b208-a7e0c3b7a583" "_Samurai Champloo_" %}}, 2004. (Selected episodes)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,9 +151,9 @@ Murakami, Takashi. _Superflat Manifesto_. Tokyo, Japan: Madora Shuppan, 2000. IS
   
 Duus, Peter "Weapons of the Weak, Weapons of the Strong: The Development of the Japanese Political Cartoon." _Journal of Asian Studies_ 60, no. 4 (November 2001).  
   
-Read "[_Secret Asian Man_](http://www.imdiversity.com/Villages/Asian/Secret_Asian_Man/sam_archives.asp)" archive. (Selections)  
+Read "{{% resource_link "fef4b87e-bc70-4581-ab5d-2321e84809a0" "_Secret Asian Man_" %}}" archive. (Selections)  
   
-Film: Watanabe, Shinichirô. [_Samurai Champloo_](http://imdb.com/title/tt0423731/), 2004. (Selected episodes)
+Film: Watanabe, Shinichirô. {{% resource_link "08b60358-fc15-489c-b208-a7e0c3b7a583" "_Samurai Champloo_" %}}, 2004. (Selected episodes)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +179,7 @@ Gender, Sexuality and Performance
 {{< tdopen >}}
 Robertson, Jennifer. _Takarazuka: Sexual Politics and Popular Culture in Modern Japan_. Berkeley, CA: University of California Press, 1998. ISBN: 9780520211513. (Finish)  
   
-Film: Longinotto, Kim, and Jano Williams. [_Dream Girls_](http://imdb.com/title/tt0109664/), 1994.
+Film: Longinotto, Kim, and Jano Williams. {{% resource_link "f8dba840-bc43-4d93-b26c-f821a6e989e3" "_Dream Girls_" %}}, 1994.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +204,7 @@ Film: Ogawa, Lulu. _We Are Transgenders_, 1998.
 {{< tdopen >}}
 Cultural Performances and Authenticity  
   
-Discussion of Authenticity, [47 Samurai](http://en.wikipedia.org/wiki/47_samurai) ("Passing" as Failed Ronin)
+Discussion of Authenticity, {{% resource_link "7c27a43d-5d9b-4b8c-9d1f-0a7932bf096f" "47 Samurai" %}} ("Passing" as Failed Ronin)
 {{< tdclose >}}
 {{< tdopen >}}
  
